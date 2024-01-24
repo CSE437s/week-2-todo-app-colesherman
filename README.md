@@ -2,6 +2,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13518509&assignment_repo_type=AssignmentRepo)
 # CSE 437s Week 2: Build a To-Do App
 
+# To Run: Download the compressed version of the project, navigate inside of the parent directory, and open up the file with the .xcodeproj extension in Xcode. You should be able to run the project natively on Xcode from there
+
 This assignment challenges you to design and build a simple to-do application using your chosen tech stack. The app should allow users to create, manage, and track their tasks. Find a way to impress us.
 
 ## Objectives:
